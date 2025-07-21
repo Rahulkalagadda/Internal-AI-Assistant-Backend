@@ -1,0 +1,5 @@
+chroma_index/chroma.sqlite3
+chroma_index/eed03598-eb41-40fb-ba8d-c01f2db25521/
+*.pyc
+__pycache__/
+*.log
